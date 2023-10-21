@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
-import logo from '../assets/img/c1.png';
+import logo from '../assets/img/vvv1.jpg';
 import navIcon2 from '../assets/img/nav-icon2.svg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
 import { HashLink } from 'react-router-hash-link';
@@ -49,7 +49,7 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
               </div>
-                <button className="vvd"><a href="https://t.me/CriptoMiner505">Let’s Connect</a></button>
+                <button className="vvd"><a href="https://t.me/Mineros12">Let’s Connect</a></button>
             </span>
           </Navbar.Collapse>
         </Container>

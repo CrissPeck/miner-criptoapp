@@ -1,6 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
 import { MailchimpForm } from "./MailchimpForm";
-import logo from "../assets/img/c1.png";
+import logo from "../assets/img/vvv1.jpg";
 
 export const Footer = () => {
   return (
