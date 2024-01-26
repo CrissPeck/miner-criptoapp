@@ -58,7 +58,7 @@ img {
   height: auto;
 }
 .img{
-  width: 225px;
+  width: 115px;
   height: auto;
 }
 
@@ -169,6 +169,7 @@ span.navbar-text {
 .navbar-text button span {
   z-index: 1;
 }
+
 .navbar-text button::before {
   content: "";
   width: 0%;
@@ -601,7 +602,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 18px;
 }
 .footer img {
-  width: 26%;
+  width: 20%;
 }
 .footer p {
   font-weight: 400;

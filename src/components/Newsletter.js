@@ -1,4 +1,4 @@
-import button from "react-bootstrap";
+
 import { Col, Row } from "react-bootstrap";
 
 export const Newsletter = ({ status, message, onValidated }) => {
@@ -13,7 +13,7 @@ export const Newsletter = ({ status, message, onValidated }) => {
             <Col md={6} xl={7}>
               <form >
                 <div className="new-email-bx">
-                  <button type="submit" ><a href="https://t.me/Mineros12" > Adquierelo Aqui</a></button>
+                  <button type="submit" ><a href="https://t.me/CriptoMinerCR" > Adquierelo Aqui</a></button>
                 </div>
               </form>
             </Col>
