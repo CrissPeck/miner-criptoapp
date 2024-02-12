@@ -55,7 +55,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Características Destacadas:</h2>
-                <p>CryptoMiner Pro se ha convertido en la elección número uno para miles de personas interesadas en el mundo de criptomonedas debido a nuestra dedicación a la seguridad, la simplicidad y el rendimiento. Estamos comprometidos a brindarte la mejor experiencia en el mundo de las criptomonedas y a ayudarte a alcanzar tus objetivos financieros.</p>
+                <p>MinerOs Pro se ha convertido en la elección número uno para miles de personas interesadas en el mundo de criptomonedas debido a nuestra dedicación a la seguridad, la simplicidad y el rendimiento. Estamos comprometidos a brindarte la mejor experiencia en el mundo de las criptomonedas y a ayudarte a alcanzar tus objetivos financieros.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>

@@ -49,7 +49,7 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
               </div>
-                <button className="vvd"><a href="https://t.me/CriptoMinerCR">Let’s Connect</a></button>
+                <button className="vvd"><a href="https://t.me/CMinerOs">Let’s Connect</a></button>
             </span>
           </Navbar.Collapse>
         </Container>
